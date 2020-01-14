@@ -1,2 +1,7 @@
-prac 4: activity life cycle
-autoLink (??)
+1: hello world (writeup)
+2: layouts
+3: lifecyle
+4: form (keyboard)
+5: pickers & alerts
+6: OptionsMenu
+
